@@ -1,0 +1,5 @@
+courses
+Mathematics 3 isMandatory
+AI 2 isMandatory
+Programming 3 isMandatory
+Operating_Systems 2 isOptional 

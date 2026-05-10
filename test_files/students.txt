@@ -1,0 +1,10 @@
+students
+Alex Gkiafis 19 male 2
+Argiris Totolos 19 male 2
+Giorgos Daras 19 male 2
+Dionisis Seriatos 19 male 2
+Kostas Andreolas 19 male 2
+Anna Maria 19 female 2
+Alex Papadimatos 19 other 1
+Fotis Gkiafis 19 male 1
+Panagiotis Rasias 18 male 1

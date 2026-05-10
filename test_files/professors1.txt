@@ -1,0 +1,5 @@
+professors
+Alan Turing 42 male Artificial Intelligence
+Marry Lace 20 female Mathematics
+Delis Delenios 80 other Operating Systems
+Takis Takenios 40 male Programming
